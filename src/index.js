@@ -29,7 +29,7 @@ Amplify.configure({
         },
       ]
     }
-  });
+  });it
 
 ReactDOM.render(
     <Router>
